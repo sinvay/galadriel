@@ -1,4 +1,4 @@
 # galadriel
-> Java basic develop kits
+> Spring boot developments
 
 ## galadriel-xxx
